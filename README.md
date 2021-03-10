@@ -1,1 +1,3 @@
 # GitKertausRepo
+
+Nimi: Oskari Savikko
